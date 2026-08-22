@@ -30,4 +30,4 @@ Este projeto foi desenhado para atuar como uma interface de entrada de dados, su
 
 1. Clone este repositório:
    ```bash
-   git clone [https://github.com/pequenodsa/](https://github.com/pequenodsa/)[Portfolio-Plataforma_de_Acesso].git
+   git clone [https://github.com/seu-usuario/](https://github.com/pequenodsa/)[Portfolio-Plataforma_de_Acesso].git
